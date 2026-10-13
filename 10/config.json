@@ -1,0 +1,9 @@
+{
+  "chainId": 10,
+  "name": "Optimism",
+  "predictionMarket": null,
+  "predictionMarketImplementation": null,
+  "diaResolver": null,
+  "usdw": null,
+  "faucet": null
+}

@@ -1,0 +1,9 @@
+{
+  "chainId": 11155420,
+  "name": "Optimism Sepolia",
+  "predictionMarket": "0xDcD6Dd148F720C90a3F180B9940B0f97C24fA240",
+  "predictionMarketImplementation": "0xe4dc01E53894a443C11052c7d14Cf7eD0615e0F0",
+  "diaResolver": "0xEf87F5fbC2891cc1960A1F010f2651F97236Ae5B",
+  "usdw": "0x2b675755B34f3ba0eA518e946E29bCd7c37C5dD6",
+  "faucet": "0x97EfB7D2d861ff6E97A7404a74d1B86CFDBc2893"
+}
