@@ -1,6 +1,17 @@
 {
   "chainId": 10,
   "name": "Optimism",
+  "enabled": false,
+  "testnet": false,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpcUrl": "https://mainnet.optimism.io",
+  "explorerUrl": "https://optimistic.etherscan.io",
+  "deploymentBlock": 0,
+  "confirmations": 0,
   "predictionMarket": null,
   "predictionMarketImplementation": null,
   "diaResolver": null,

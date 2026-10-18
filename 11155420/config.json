@@ -1,6 +1,17 @@
 {
   "chainId": 11155420,
   "name": "Optimism Sepolia",
+  "enabled": true,
+  "testnet": true,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpcUrl": "https://sepolia.optimism.io",
+  "explorerUrl": "https://sepolia-optimism.etherscan.io",
+  "deploymentBlock": 47241922,
+  "confirmations": 1,
   "predictionMarket": "0xDcD6Dd148F720C90a3F180B9940B0f97C24fA240",
   "predictionMarketImplementation": "0xe4dc01E53894a443C11052c7d14Cf7eD0615e0F0",
   "diaResolver": "0xEf87F5fbC2891cc1960A1F010f2651F97236Ae5B",
