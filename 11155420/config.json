@@ -10,11 +10,11 @@
   },
   "rpcUrl": "https://sepolia.optimism.io",
   "explorerUrl": "https://sepolia-optimism.etherscan.io",
-  "deploymentBlock": 47241922,
+  "deploymentBlock": 49750017,
   "confirmations": 1,
-  "predictionMarket": "0xDcD6Dd148F720C90a3F180B9940B0f97C24fA240",
-  "predictionMarketImplementation": "0xe4dc01E53894a443C11052c7d14Cf7eD0615e0F0",
-  "diaResolver": "0xEf87F5fbC2891cc1960A1F010f2651F97236Ae5B",
-  "usdw": "0x2b675755B34f3ba0eA518e946E29bCd7c37C5dD6",
-  "faucet": "0x97EfB7D2d861ff6E97A7404a74d1B86CFDBc2893"
+  "predictionMarket": "0x75b2a32d9e5706cb18a4ab8aa241a54634e2ac58",
+  "predictionMarketImplementation": "0xf76136b0c66aba70a881437c6ab25d877b663882",
+  "diaResolver": "0x96492caf9c3c880c4475b8b503bb1950d7a9553f",
+  "usdw": "0xcfB08cFaC4C510f8382d6eE4422353146556A2BE",
+  "faucet": "0x5D04f355f6601ee68a815d850820b350D18dCaf6"
 }
