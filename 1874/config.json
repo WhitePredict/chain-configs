@@ -1,6 +1,17 @@
 {
   "chainId": 1874,
   "name": "Whitechain L2 Sepolia",
+  "enabled": true,
+  "testnet": true,
+  "nativeCurrency": {
+    "name": "WhiteBIT Coin",
+    "symbol": "WBT",
+    "decimals": 18
+  },
+  "rpcUrl": "https://rpc.testnet.whitechain.io",
+  "explorerUrl": "https://explorer.testnet.whitechain.io",
+  "deploymentBlock": 5472998,
+  "confirmations": 1,
   "predictionMarket": "0x47b42c74A5965a06E835bdaFaaC70bEbb48524bc",
   "predictionMarketImplementation": "0x3EBcb778E13490cBd53Db17F846A3E9BbdffAdb6",
   "diaResolver": null,
